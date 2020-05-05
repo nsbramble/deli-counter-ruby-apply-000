@@ -1,4 +1,4 @@
-# Deli Counter - Take a Number
+jh1# Deli Counter - Take a Number
 
 ## Objectives
 1. Practice building methods that use iteration and controlling their return values.
@@ -6,7 +6,8 @@
 
 ## Instructions
 
-The local deli is putting in a new computerized queue to keep track of their customers and improve productivity. At the beginning of the day, the deli is empty so the queue should be represented by an empty array:
+The local deli is putting in a new computerized queue to keep track of their customers and improve
+v,productivity. At the beginning of the day, the deli is empty so the queue should be represented by an empty array:
 
 ```ruby
 katz_deli = []
